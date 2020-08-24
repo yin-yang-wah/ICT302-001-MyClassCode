@@ -1,6 +1,6 @@
 baseURL = "https://affectionate-easley-365e1a.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My ICT302 Site"
 theme = "ananke"
 
 [build]
@@ -34,3 +34,8 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[params]
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "/intro_to_author_DS/"
