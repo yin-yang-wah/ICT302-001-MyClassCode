@@ -18,7 +18,7 @@ I am able to use Github to organize my files and use Netifly to host my blog web
 
 I can identify and employ technologies related to content management.
 ---------------------------------------------------------------------
-I understand to use code such as CSS, HTML, Markdown, GitHub, Netifly, and Hugo to create pages, including these learning reports.
+I understand to use code such as CSS, HTML, and Markdown and use services such as GitHub, Netifly, and Hugo to create simple and clean pages, including these learning reports.
 
 I can find and use resources for self-directed learning.
 -------------------------------------------------------------------
