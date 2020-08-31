@@ -23,7 +23,8 @@ I understand to use code such as CSS, HTML, Markdown, GitHub, Netifly, and Hugo 
 I can find and use resources for self-directed learning.
 -------------------------------------------------------------------
 I have been able to use w3schools and Daring Fireball to make sure that my code and use of Markdown is correct and to see what Markdown can do.
-+Lists.
-+Headings.
-+Links
-+Embedded files
+
++ Lists.
++ Headings.
++ Links.
++ Embedded files.
