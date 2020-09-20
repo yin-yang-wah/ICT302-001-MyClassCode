@@ -15,8 +15,8 @@ pre  code {
 }
 
 pre {
-  background-color: #ddd;
-  color: #222;
+  background-color: #222;
+  color: #ddd;
   white-space: pre;
 
   hyphens: none;
