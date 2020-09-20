@@ -1,7 +1,7 @@
 baseURL = "https://affectionate-easley-365e1a.netlify.app/"
 languageCode = "en-us"
 title = "My ICT302 Site"
-theme = "ananke"
+theme = "m10c"
 
 [build]
 publish = "public"
