@@ -1,17 +1,17 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
 #TableOfContents ul li {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 .lh-copy blockquote {
   display: block;
-  font-size: .875em;
-  margin-left: 2rem;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  border-left: 4px solid #ccc;
-  padding-left: 1rem;
+  font-size: 1.5em;
+  margin-left: 4rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  border-left: 4px solid #333;
+  padding-left: 2rem;
 
 }
 
