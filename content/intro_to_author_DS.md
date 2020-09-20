@@ -15,4 +15,4 @@ I love board games and card games, especially *cooperative* ones. I tend to stug
 + Super Smash Brothers.
 + Fighting Games.
 
-![My Defining Words](https://affectionate-easley-365e1a.netlify.app/Yinyang_sun.png)
+![My Defining Words](https://affectionate-easley-365e1a.netlify.app/content/Yinyang_sun.png)
