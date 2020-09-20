@@ -35,4 +35,4 @@ enableRobotsTXT = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
   body_classes = "sans-serif bg-gold"
-  post_content_classes = "times bg-dark-green"
+  post_content_classes = "times bg-light-green"
