@@ -9,14 +9,14 @@ pre  code {
   display: block;
   padding: 1.5em 1.5em;
   white-space: pre;
-  font-size: .875rem;
-  line-height: 2;
+  font-size: 1rem;
+  line-height: 4;
 
 }
 
 pre {
-  background-color: #222;
-  color: #ddd;
+  background-color: #ddd;
+  color: #222;
   white-space: pre;
 
   hyphens: none;
