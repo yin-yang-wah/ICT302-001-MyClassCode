@@ -11,9 +11,9 @@
 }
 .pagination li a {
   padding: .5rem .625rem;
-  background-color: white;
-  color: #333;
-  border: 1px solid #ddd;
+  background-color: blue;
+  color: #777;
+  border: 1px solid #ccc;
   border-radius: 3px;
   text-decoration: none;
 }
@@ -27,5 +27,5 @@
 }
 
 #TableOfContents ul li {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
