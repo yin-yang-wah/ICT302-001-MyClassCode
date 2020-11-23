@@ -1,6 +1,6 @@
 ---
 title: "Dylan's Learning Report for Module 14"
-date: 2020-11-15T00:00:00-04:00
+date: 2020-11-22T00:00:00-04:00
 draft: false
 ---
 
